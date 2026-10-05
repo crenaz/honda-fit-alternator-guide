@@ -1,0 +1,6 @@
+{
+  "name": "FIT-SPEC: 2002 JDM Honda Fit Field Dossier & Alternator Triage",
+  "description": "Interactive technical field manual and diagnostic simulator for 2002 RHD JDM Honda Fit (GD1 L13A) alternator charging failure triage in George Town, Grand Cayman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
